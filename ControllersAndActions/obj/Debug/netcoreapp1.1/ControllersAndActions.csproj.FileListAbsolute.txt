@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp1.1\ControllersAndActions.deps.json
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp1.1\ControllersAndActions.runtimeconfig.json
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp1.1\ControllersAndActions.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp1.1\ControllersAndActions.dll
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp1.1\ControllersAndActions.pdb
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp1.1\ControllersAndActions.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp1.1\ControllersAndActions.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp1.1\ControllersAndActions.dll
+C:\Users\Administrator\Desktop\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp1.1\ControllersAndActions.pdb
